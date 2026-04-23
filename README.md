@@ -11,8 +11,8 @@ This is a basic HTML/CSS webpage that shares:
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## 🚀 How to View
 
